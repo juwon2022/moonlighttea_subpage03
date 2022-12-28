@@ -175,6 +175,10 @@ body{font-family: 'Noto Sans KR', sans-serif;}
         box-sizing: border-box;
     }
 
+    .li1{
+        margin-left: 2.5%;
+    }
+
     .con3ul li:hover{
         background-color: #ecdefa;
         border: 2px solid #ecdefa;
